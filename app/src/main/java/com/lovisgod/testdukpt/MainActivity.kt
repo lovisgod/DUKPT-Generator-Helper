@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun checkLogic() {
         val block  = Converter.GetPinBlock("3F2216D8297BCE9C",
-            "0000000006DDDDE00001", "1994", "4105400015916727")
+            "0000000006DDDDE00001", "1990", "4105400015916727")
 
         println("this is the pin block oo => $block")
 
